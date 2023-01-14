@@ -1,9 +1,10 @@
 cff-version: 1.2.0
 message: "If you feel this software helps your research, please use citation information below"
 authors:
-  - family-names: Li, Yu
-    given-names: Xueshen, Gan
-   
+  - family-names: Li
+    given-names: Xueshen
+  - family-names: Yu
+    given-names: Gan
 title: "Calculate intensity of medical images over color-channels"
 version: 1.0.0
 date-released: 2023-01-14
