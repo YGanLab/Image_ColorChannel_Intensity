@@ -4,7 +4,7 @@ This project provides a software to plot intensity of images according to differ
 This executable file requires Matlab runtime R2022b (9.11). Please find the runtime at https://www.mathworks.com/products/compiler/matlab-runtime.html for free.
 
 If you feel this software helps your research, please use the following citation information.
-Li, X., & Yu, G. (2023). Calculate intensity of medical images over color-channels (Version 1.0.0) [Computer software]
+Li, X., & Yu, G. (2023). Calculate intensity of medical images over color-channels (Version 1.0.0) [Computer software]. Please contact us if you want to access the cource code.
 
 To use this software, please see the following examples.
 
