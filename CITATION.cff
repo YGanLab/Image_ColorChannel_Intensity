@@ -3,8 +3,8 @@ message: "If you feel this software helps your research, please use citation inf
 authors:
   - family-names: Li
     given-names: Xueshen
-  - family-names: Yu
-    given-names: Gan
+  - family-names: Gan
+    given-names: Yu
 title: "Calculate intensity of medical images over color-channels"
 version: 1.0.0
 date-released: 2023-01-14
