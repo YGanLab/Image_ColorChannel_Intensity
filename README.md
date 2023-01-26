@@ -5,7 +5,7 @@ This executable file requires Matlab runtime R2022b (9.11). Please find the runt
 
 If you feel this software helps your research, please use the following citation information. Please contact us (yganlab@gmail.com) if you want to access the source code.
 
-APA: Li, X., & Yu, G. (2023). Calculate intensity of medical images over color-channels (Version 1.0.0) [Computer software]. 
+APA: Li, X., & Gan, Y. (2023). Calculate intensity of medical images over color-channels (Version 1.0.0) [Computer software]
 
 BibTex: @software{Li_Calculate_intensity_of_2023,
 author = {Li, Xueshen and Yu, Gan},
