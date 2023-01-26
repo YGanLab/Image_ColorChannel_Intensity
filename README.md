@@ -8,7 +8,7 @@ If you feel this software helps your research, please use the following citation
 APA: Li, X., & Gan, Y. (2023). Calculate intensity of medical images over color-channels (Version 1.0.0) [Computer software]
 
 BibTex: @software{Li_Calculate_intensity_of_2023,
-author = {Li, Xueshen and Yu, Gan},
+author = {Li, Xueshen and Gan, Yu},
 month = {1},
 title = {{Calculate intensity of medical images over color-channels}},
 version = {1.0.0},
